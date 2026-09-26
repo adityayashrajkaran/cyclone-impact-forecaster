@@ -59,10 +59,7 @@ export const Header: React.FC<HeaderProps> = ({
           </div>
 
           {/* GEE Live Indicator */}
-          <div className="hidden md:flex items-center gap-2 bg-[#e6ecf5] shadow-[3px_3px_6px_#c2d0e3,-3px_-3px_6px_#ffffff] text-slate-700 text-[11px] font-mono px-3 py-1.5 rounded-xl font-bold">
-            <span className="w-1.5 h-1.5 rounded-full bg-emerald-500"></span>
-            <span>GEE & Gemini Live</span>
-          </div>
+          
         </div>
       </div>
 

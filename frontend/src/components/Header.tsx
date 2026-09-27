@@ -24,8 +24,8 @@ export const Header: React.FC<HeaderProps> = ({
         {/* Logo & System Title */}
         <div className="flex items-center gap-3">
           <div className="flex items-center justify-center overflow-hidden rounded-full w-12 h-12">
-  <img src="/logo.png" alt="ResiliTrack Logo" className="w-full h-full object-cover" />
-</div>
+            <img src="/logo.png" alt="ResiliTrack Logo" className="w-full h-full object-cover" />
+          </div>
           <div>
             <div className="flex items-center gap-2">
               <h1 className="font-extrabold text-sm tracking-tight text-slate-800">RESILITRACK CYCLONE AI</h1>
